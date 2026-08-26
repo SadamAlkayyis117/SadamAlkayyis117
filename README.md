@@ -142,6 +142,7 @@ My projects allow me to explore:
 * Prototyping
 * Mockup Design
 * CorelDRAW
+* AutoCad
 
 ### 💻 Development
 

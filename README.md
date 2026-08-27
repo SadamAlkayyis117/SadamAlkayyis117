@@ -8,8 +8,6 @@ I'm **Sadam Alkayyis Nurafifi**, an Informatics graduate with a strong interest 
 
 I enjoy turning ideas into interactive digital experiences, whether it's designing a user-friendly interface, creating an interactive prototype, developing a game, or working on other creative projects. I have experience working independently and collaboratively, including remote freelance projects and team-based development.
 
-> **Designing ideas. Building experiences. Creating interactive projects.**
-
 ---
 
 ## 👨‍💻 About Me

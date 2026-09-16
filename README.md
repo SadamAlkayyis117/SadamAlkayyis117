@@ -1,134 +1,111 @@
-# Hi, I'm Sadam Alkayyis 
+# Hi, I'm Sadam Alkayyis 👋
 
-### UI/UX Designer | Informatics Graduate | Creative Developer
+### Informatics Graduate | UI/UX Designer | Creative Developer
 
-Welcome to my GitHub profile! 
+I'm **Sadam Alkayyis Nurafifi**, an Informatics graduate interested in **UI/UX Design, Game Development, Interactive Digital Experiences, and Creative Technology**.
 
-I'm **Sadam Alkayyis Nurafifi**, an Informatics graduate with a strong interest in **UI/UX Design, Prototyping, Game Development, and Creative Digital Projects**.
+I enjoy combining **design and technology** to turn ideas into functional and engaging digital experiences — from designing interfaces and interactive prototypes to developing games and interactive systems.
 
-I enjoy turning ideas into interactive digital experiences, whether it's designing a user-friendly interface, creating an interactive prototype, developing a game, or working on other creative projects. I have experience working independently and collaboratively, including remote freelance projects and team-based development.
-
----
-
-##  About Me
-
-*  Focused on **UI/UX Design and User Interface Design**
-*  Experienced in creating **website and application prototypes**
-*  Interested in designing intuitive and user-friendly digital experiences
-*  Passionate about **Game Development**
-*  Comfortable working on individual and collaborative projects
-*  Experienced in working remotely with clients
-*  Always interested in learning new tools, technologies, and creative workflows
-*  Based in **Garut, West Java, Indonesia**
-
-My background in Informatics helps me understand both the **design and technical side** of digital product development. I enjoy exploring how design, technology, and creativity can work together to create meaningful experiences.
+I'm comfortable working on projects independently or collaboratively, and I enjoy learning new tools and technologies through hands-on projects.
 
 ---
 
-#  UI/UX Design
+## 🚀 What I Do
 
-I am interested in designing digital interfaces that are visually clear, functional, and easy to use.
+### 🎨 UI/UX Design
 
-My areas of interest include:
+I design interfaces and interactive prototypes with a focus on **clarity, usability, and visual consistency**.
+
+**Areas:**
 
 * User Interface Design
 * User Experience Design
 * Wireframing
-* Website Design
-* Mobile Application Design
 * Interactive Prototyping
+* Website & Application Design
 * Mockup Design
-* Design Collaboration
-* Prototype Development
+* Design Systems & Visual Design
 
-###  Main Tool
-
-**Figma**
-
-I use Figma to create and develop interface concepts, wireframes, mockups, and interactive prototypes for websites and applications.
+**Main Tool:** Figma
 
 ---
 
-#  Game Development
+### 🎮 Game Development
 
-Besides UI/UX Design, I also have a strong interest in **Game Development**.
+I develop interactive game experiences and enjoy working across both the **creative and technical sides of game development**.
 
-I enjoy exploring the process of creating games, from developing ideas and concepts to working on gameplay, visual elements, interfaces, and interactive experiences.
+**Areas:**
 
-### My Game Development Interests
-
-*  Game Design
-*  Game Prototyping
-*  Game UI
-*  Interactive Experiences
-*  Game Development
-*  Collaborative Game Projects
-
-###  Tools & Technologies
-
-* Unity
+* Gameplay Programming
+* Game Design
+* Game UI
+* Interactive Systems
+* Mission & Quest Systems
+* Player Interaction
 * Game Prototyping
-* Basic Game Development
+* 3D Game Development
+
+**Tools & Technologies:**
+
+* Godot Engine
+* Unity
 * Blender
-* UI Design
 * Figma
 
 ---
 
-#  Play My Games
+## ⭐ Featured Projects
 
-I've created and worked on several game projects.
+### 🎮 SMARTVOC
 
-You can explore and play my games through my **itch.io portfolio**:
+**3D Open-World Educational RPG for English Vocabulary Learning**
 
-###  > [Visit My itch.io Page](https://edutree.itch.io/)
+A 3D educational RPG that combines **open-world exploration, interactive missions, NPC interaction, vocabulary learning, mini-games, writing activities, and daily-life simulation**.
 
-I will continue adding new games and interactive projects to my portfolio as I develop them.
+**My work includes:**
 
----
+* Gameplay system development
+* UI/UX and game interface design
+* Player interaction systems
+* Mission and activity systems
+* Vocabulary and interactive dictionary systems
+* Inventory systems
+* Save/load systems
+* Writing-based learning activities
+* Gameplay and simulation systems
 
-#  Featured Projects
-
-Here are some of the areas and projects I work on.
-
-###  UI/UX & Prototype Design
-
-I create prototypes and interface designs for websites and applications using Figma.
-
-My work includes:
-
-* Designing user interfaces
-* Creating wireframes
-* Developing interactive prototypes
-* Creating digital mockups
-* Visualizing ideas before development
-* Supporting collaborative project development
-
- **Explore my UI/UX projects:**
-[View My Repositories](https://github.com/SadamAlkayyis117?tab=repositories)
+🔗 **[View SMARTVOC on GitHub](https://github.com/SadamAlkayyis117/SMARTVOC-)**
+🎮 **[Play SMARTVOC on itch.io](https://edutree.itch.io/smartvoc)**
 
 ---
 
-###  Game Development Projects
+### 🎮 BLOCKFIGHT
 
-I develop and experiment with game projects, including prototypes and collaborative development.
+A game development project focused on interactive gameplay and game system development.
 
-My projects allow me to explore:
-
-* Game mechanics
-* Interactive systems
-* Game interfaces
-* Player experiences
-* Creative gameplay concepts
-
- **Play my games:**
-[Visit My itch.io Portfolio](https://edutree.itch.io/smartvoc)
+🔗 **[View BLOCKFIGHT on GitHub](https://github.com/SadamAlkayyis117/BLOCKFIGHT)**
 
 ---
 
-#  Skills & Tools
+### 🎨 UI/UX — MONJA
 
-###  UI/UX & Design
+A UI/UX project focused on interface design and interactive digital experiences.
+
+🔗 **[View UI/UX MONJA](https://github.com/SadamAlkayyis117/UI-UX-MONJA)**
+
+---
+
+### 🌐 Website Pasar Ikan
+
+A website interface and prototype project created to explore **web UI design and digital product concepts**.
+
+🔗 **[View Website Pasar Ikan](https://github.com/SadamAlkayyis117/Prototype-Website-Pasar-Ikan)**
+
+---
+
+## 🧰 Skills & Tools
+
+### Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
@@ -140,83 +117,95 @@ My projects allow me to explore:
 * Prototyping
 * Mockup Design
 * CorelDRAW
-* AutoCad
+* AutoCAD
 
-###  Development
+### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=godot,unity" />
 </p>
 
+* Godot Engine
 * Unity
-* Basic Game Development
+* Gameplay Programming
 * Game Prototyping
+* Interactive Systems
 
-###  3D & Creative Tools
+### 3D & Creative
 
 * Blender
 * SketchUp
+* 3D Modeling
+* Game Assets
 
-###  Video & Motion
+### Video & Motion
 
 * Adobe Premiere Pro
-* Filmora
 * After Effects
+* Filmora
+* Video Editing
+* Motion Graphics
 
 ---
 
-#  Let's Connect
+## 🎮 Play My Games
 
-I'm always interested in connecting with people who are passionate about **design, technology, UI/UX, and game development**.
+I publish my game projects and playable builds on itch.io.
 
-If you're interested in my work, collaboration, or simply want to explore my projects, feel free to connect with me!
-
-###  Email
-
-**[sadamalkayyisnurafifi@gmail.com](mailto:sadamalkayyisnurafifi@gmail.com)**
-
-###  Location
-
-Garut, West Java, Indonesia
-
-###  Instagram
-
-[@park.k04](https://www.instagram.com/park.k04/)
-
-###  itch.io
-
-[Visit My Game Portfolio](YOUR_ITCH_IO_LINK_HERE)
-
-###  LinkedIn
-
-[https://www.linkedin.com/in/sadamalkayyisnurafifi/)
+### 👉 [Visit My itch.io Portfolio](https://edutree.itch.io/)
 
 ---
 
-#  Open for Opportunities
+## 📂 Explore My Work
+
+My repositories contain projects covering several areas of digital development:
+
+**🎮 Game Development**
+Game systems, gameplay prototypes, interactive experiences, and game UI.
+
+**🎨 UI/UX Design**
+Website and application interfaces, wireframes, mockups, and interactive prototypes.
+
+**🖼️ Graphic Design**
+Visual design, digital assets, and creative design projects.
+
+**🎬 Multimedia**
+Video editing, motion graphics, and multimedia projects.
+
+---
+
+## 💼 Open to Opportunities
 
 I'm interested in opportunities related to:
 
-*  UI/UX Design
-*  UI Design
-*  Mobile & Web Prototyping
-*  Game Development
-*  Game UI
-*  Creative Digital Projects
-*  Collaborative Projects
+* UI/UX Design
+* UI Design
+* Game Development
+* Game UI
+* Gameplay / Interactive Development
+* Web & Mobile Prototyping
+* Graphic Design
+* Creative Digital Projects
+* IT & Technology-related roles
 
-Feel free to explore my repositories and game projects to learn more about my work.
+I'm also open to **collaborative projects, freelance opportunities, and professional development opportunities** where I can contribute my design and technical skills.
 
 ---
 
-##  My Goal
+## 📫 Let's Connect
 
-I want to continue developing my skills as a creative technology professional by combining my interests in:
+If you'd like to discuss a project, collaboration, or professional opportunity, feel free to reach out.
 
-> **Design  + Technology  + Interactive Experiences **
+📧 **Email:** [sadamalkayyisnurafifi@gmail.com](mailto:sadamalkayyisnurafifi@gmail.com)
 
-I'm always learning, experimenting, and building new projects.
+💼 **LinkedIn:** [linkedin.com/in/sadamalkayyisnurafifi](https://www.linkedin.com/in/sadamalkayyisnurafifi/)
 
-### Thanks for visiting my profile! 
+🎮 **itch.io:** [edutree.itch.io](https://edutree.itch.io/)
 
- Feel free to explore my repositories and check out my games!
+---
+
+### Design + Technology + Interactive Experiences
+
+I'm continuously learning, experimenting, and building new projects to improve my skills and create meaningful digital experiences.
+
+**Thanks for visiting my profile! 👋**
